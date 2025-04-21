@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567963595738922480/88e5191cf53e4028bdf0db0e912be7db/artifacts
+end_time: 1744017059873
+entry_point_name: ''
+experiment_id: '567963595738922480'
+lifecycle_stage: active
+run_id: 88e5191cf53e4028bdf0db0e912be7db
+run_name: agreeable-deer-745
+run_uuid: 88e5191cf53e4028bdf0db0e912be7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017059785
+status: 4
+tags: []
+user_id: falgu

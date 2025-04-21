@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567963595738922480/8a7594282687443d8f5c47fd154e6424/artifacts
+end_time: 1744017191663
+entry_point_name: ''
+experiment_id: '567963595738922480'
+lifecycle_stage: active
+run_id: 8a7594282687443d8f5c47fd154e6424
+run_name: bold-midge-164
+run_uuid: 8a7594282687443d8f5c47fd154e6424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017191528
+status: 4
+tags: []
+user_id: falgu

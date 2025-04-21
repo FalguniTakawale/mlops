@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567963595738922480/a33aad5b1ffa4be48a3f618788771f9a/artifacts
+end_time: 1744017204919
+entry_point_name: ''
+experiment_id: '567963595738922480'
+lifecycle_stage: active
+run_id: a33aad5b1ffa4be48a3f618788771f9a
+run_name: rebellious-loon-268
+run_uuid: a33aad5b1ffa4be48a3f618788771f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017204768
+status: 3
+tags: []
+user_id: falgu

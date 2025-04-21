@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567963595738922480/7524f4ff2e5845caa071ff1d9b85de3c/artifacts
+end_time: 1744017431044
+entry_point_name: ''
+experiment_id: '567963595738922480'
+lifecycle_stage: active
+run_id: 7524f4ff2e5845caa071ff1d9b85de3c
+run_name: flawless-dolphin-639
+run_uuid: 7524f4ff2e5845caa071ff1d9b85de3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017408097
+status: 3
+tags: []
+user_id: falgu

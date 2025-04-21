@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/567963595738922480/3d0c413c1a764b46a379b5a6d99f40ea/artifacts
+end_time: 1744017029172
+entry_point_name: ''
+experiment_id: '567963595738922480'
+lifecycle_stage: active
+run_id: 3d0c413c1a764b46a379b5a6d99f40ea
+run_name: aged-lynx-279
+run_uuid: 3d0c413c1a764b46a379b5a6d99f40ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017029065
+status: 4
+tags: []
+user_id: falgu
