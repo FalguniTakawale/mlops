@@ -1,4 +1,4 @@
-/youtube_videos_data.csv
+youtube_videos_data.csv
 venv/
 # Ignore Python bytecode files (compiled files)
 *.pyc
