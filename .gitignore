@@ -1,1 +1,16 @@
 /youtube_videos_data.csv
+venv/
+# Ignore Python bytecode files (compiled files)
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE files (for VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore any environment-specific files (macOS example)
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
